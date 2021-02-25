@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText1/iText-1.iml" filepath="$PROJECT_DIR$/guide2/examples/iText1/iText-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildingblocks/examples/iText-buildingblock-1/iText-buildingblock-1.iml" filepath="$PROJECT_DIR$/buildingblocks/examples/iText-buildingblock-1/iText-buildingblock-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText2/iText2.iml" filepath="$PROJECT_DIR$/guide2/examples/iText2/iText2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText3/iText3.iml" filepath="$PROJECT_DIR$/guide2/examples/iText3/iText3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText4/iText4.iml" filepath="$PROJECT_DIR$/guide2/examples/iText4/iText4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText5/iText5.iml" filepath="$PROJECT_DIR$/guide2/examples/iText5/iText5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText6/iText6.iml" filepath="$PROJECT_DIR$/guide2/examples/iText6/iText6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide2/examples/iText7/iText7.iml" filepath="$PROJECT_DIR$/guide2/examples/iText7/iText7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/itext7-in-mandarin-eeea024af0068820485c907e5c38b79ae5218c01.iml" filepath="$PROJECT_DIR$/.idea/itext7-in-mandarin-eeea024af0068820485c907e5c38b79ae5218c01.iml" />
+    </modules>
+  </component>
+</project>

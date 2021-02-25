@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/guide2/examples/iText1/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText2/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText3/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText4/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText5/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText6/pom.xml" />
+        <option value="$PROJECT_DIR$/guide2/examples/iText7/pom.xml" />
+        <option value="$PROJECT_DIR$/buildingblocks/examples/iText-buildingblock-1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK" />
+</project>
